@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW8</string>
+    <string name="lbl_newgame">New Game!</string>
+    <string name="lbl_move">Move!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
